@@ -31,7 +31,8 @@ ll powerfun(ll base,ll power)
 
 void Solveit()
 {
-    
+    ll n;
+    cin>>n;
 }
 
 int main()
