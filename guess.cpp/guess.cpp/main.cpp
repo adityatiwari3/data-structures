@@ -32,6 +32,7 @@ ll powerfun(ll base,ll power)
 void Solveit()
 {
     ll n;
+    cout<<"enter the value of n";
     cin>>n;
 }
 
