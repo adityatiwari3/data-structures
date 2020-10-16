@@ -1,5 +1,5 @@
 #include <iostream>
-#define ll long long
+#define ll long long int
 using namespace std;
 /*functions in linked list
    to print Linkedlist
